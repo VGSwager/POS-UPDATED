@@ -53,20 +53,20 @@ easy interaction.
 ● The GUI will include features for processing sales, generating
 receipts and a secure admin panel.
 Future Scope and Further Enhancement:
-1. Scalability:
 
+1. Scalability:
 ● The system can be scaled to support additional features
 such as online ordering and payment options for future
 expansion.
-3. Mobile Application:
 
+2. Mobile Application:
 ● Developing a mobile application for the POS system to provide
 exibility and accessibility.
-4. Enhanced Reporting:
 
+3. Enhanced Reporting:
 ● Further enhancement of reporting capabilities to include detailed
 sales analytics and trends.
-5. User Feedback and Iterative Improvement:
 
+4. User Feedback and Iterative Improvement:
 ● Collecting feedback from users and continuously improving the
 system based on their suggestions and requirements.
