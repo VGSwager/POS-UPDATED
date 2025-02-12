@@ -1,3 +1,6 @@
+POS (Point-Of-Sale) System for Restaurants
+
+
 INTRODUCTION:
 
 ● The POS (Point-Of-Sale) software for restaurants is a
