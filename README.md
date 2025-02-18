@@ -1,4 +1,5 @@
 POS (Point-Of-Sale) System for Restaurants
+version 2.0
 
 
 INTRODUCTION:
